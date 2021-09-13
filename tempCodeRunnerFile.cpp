@@ -1,0 +1,1 @@
+   // printAllPos(a,8,5,0);
